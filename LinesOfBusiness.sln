@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinesOfBusiness", "LinesOfBusiness\LinesOfBusiness.csproj", "{731840ED-32A7-48B6-B330-6E9B205C807F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GwpTest", "GwpTest\GwpTest.csproj", "{B028E4E4-1185-437B-8AF2-8BC2C21407F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{731840ED-32A7-48B6-B330-6E9B205C807F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{731840ED-32A7-48B6-B330-6E9B205C807F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{731840ED-32A7-48B6-B330-6E9B205C807F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{731840ED-32A7-48B6-B330-6E9B205C807F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B028E4E4-1185-437B-8AF2-8BC2C21407F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B028E4E4-1185-437B-8AF2-8BC2C21407F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B028E4E4-1185-437B-8AF2-8BC2C21407F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B028E4E4-1185-437B-8AF2-8BC2C21407F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4731808-9AFC-43D5-B32B-F177F88CE1FD}
+	EndGlobalSection
+EndGlobal
